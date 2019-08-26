@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost/categories/</loc>
+    <loc>https://alternate-media.github.io/deep-space-man/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost/es/categories/"
+                href="https://alternate-media.github.io/deep-space-man/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost/categories/"
+                href="https://alternate-media.github.io/deep-space-man/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost/</loc>
+    <loc>https://alternate-media.github.io/deep-space-man/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost/es/"
+                href="https://alternate-media.github.io/deep-space-man/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost/"
+                href="https://alternate-media.github.io/deep-space-man/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost/tags/</loc>
+    <loc>https://alternate-media.github.io/deep-space-man/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost/es/tags/"
+                href="https://alternate-media.github.io/deep-space-man/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost/tags/"
+                href="https://alternate-media.github.io/deep-space-man/tags/"
                 />
   </url>
   
