@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://alternate-media.github.io/deep-space-man/posts/chapter-1/</loc>
+    <lastmod>2019-08-26T07:53:42+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alternate-media.github.io/deep-space-man/</loc>
+    <lastmod>2019-08-26T07:53:42+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alternate-media.github.io/deep-space-man/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alternate-media.github.io/deep-space-man/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://alternate-media.github.io/deep-space-man/posts/</loc>
+    <lastmod>2019-08-26T07:53:42+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://alternate-media.github.io/deep-space-man/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -13,20 +38,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://alternate-media.github.io/deep-space-man/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://alternate-media.github.io/deep-space-man/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://alternate-media.github.io/deep-space-man/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alternate-media.github.io/deep-space-man/"
                 />
   </url>
   

@@ -1,15 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Deep Space Exploration</title>
+    <title>Deep Space Man</title>
     <link>https://alternate-media.github.io/deep-space-man/</link>
-    <description>Recent content on Deep Space Exploration</description>
+    <description>Recent content on Deep Space Man</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>MIT License</copyright>
+    <lastBuildDate>Mon, 26 Aug 2019 07:53:42 +0530</lastBuildDate>
     
 	<atom:link href="https://alternate-media.github.io/deep-space-man/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Chapter 1 - Saying Hello</title>
+      <link>https://alternate-media.github.io/deep-space-man/posts/chapter-1/</link>
+      <pubDate>Mon, 26 Aug 2019 07:53:42 +0530</pubDate>
+      
+      <guid>https://alternate-media.github.io/deep-space-man/posts/chapter-1/</guid>
+      <description>Is it just me or is there someone here?
+The air feels like too thin to breathe.
+Earth, My Earth! It all seems so distant now. Like a tiny speck of dust in the endless canvas of numerous specks.
+My team arrives in two days. Only if my Outer Space Vehicle had not malfunctioned.. I have become a liability to everyone. huh!
+Perhaps This is the lack of oxygen talking. I have to conserve oxygen for the near future.</description>
+    </item>
     
   </channel>
 </rss>
